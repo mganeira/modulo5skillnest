@@ -1,0 +1,1 @@
+UPDATE clientes SET direccion = 'Dirección Calle Omar' WHERE id = 5;
